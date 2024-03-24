@@ -8,4 +8,4 @@ function inverterString(stringInicial) {
 
 const stringInicial = "Target Sistemas";
 const stringInvertida = inverterString(stringInicial);
-console.log(stringInvertida);
+console.log(stringInvertida); 
